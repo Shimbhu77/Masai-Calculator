@@ -1,5 +1,5 @@
 # Masai Calculator
-### we can addtion ,substraction , multiply, division through this.
+### we can do addition ,substraction , multiply, division through this.
 ### A solo project excuted in half day.
 
 # Tech Stack 
